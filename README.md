@@ -53,7 +53,6 @@ netflix-clone/
 │   ├── App.jsx
 │   └── main.jsx
 │── tailwind.config.js
-│── postcss.config.js
 │── package.json
 │── README.md
 ```
